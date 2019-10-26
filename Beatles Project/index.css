@@ -1,0 +1,12 @@
+.image-responsive{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-image{
+  max-width: 50%;
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
